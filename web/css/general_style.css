@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+footer {
+
+    border: 2px solid greenyellow;
+    background-color: darkblue;
+    color: white;
+    margin-top: auto;
+}
+
+div {
+    border: 1px solid red;
+}

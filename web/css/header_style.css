@@ -51,22 +51,8 @@
     margin-right: 1%;
 }
 
-
-main {
-    border: 2px solid blue;
-}
-
-footer {
-
-    border: 2px solid greenyellow;
-    background-color: darkblue;
-    color: white;
-    margin-top: auto;
-}
-
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    font-family: Arial, Helvetica, sans-serif;
+header {
+    position: sticky;
+    top: 0;
+    background-color: lightblue;
 }

@@ -28,3 +28,8 @@ A (visual) inventory manager for table top role play games.
 - Predefined Items from major rpg systems available
 - add your own items
 - 
+
+# Ressources
+## Links
+
+- [Folder Structure](https://stackoverflow.com/questions/7959673/directory-structure-for-mvc)
