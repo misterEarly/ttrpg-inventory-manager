@@ -1,0 +1,16 @@
+[users]<>->[PCs]
+[users]<>->[DMs]
+[DMs]<>->[Partys]
+[DMs]<>->[NPCs]
+[users]<>->[NPCs]
+
+[Partys]<>->[PCs]
+[Partys]<>->[NPCs]
+
+[PCs]<>->[Inventorys]
+[NPCs]<>->[Inventorys]
+[DMs]<>->[Inventorys]
+[Partys]<>->[Inventorys]
+
+[Inventorys]<>->[Items in Inventory#]
+[Items in Inventory#]<>->[Items in Inventory#]
