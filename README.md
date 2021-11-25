@@ -28,3 +28,7 @@ A (visual) inventory manager for table top role play games.
 - Predefined Items from major rpg systems available
 - add your own items
 - 
+
+## Party Structure
+
+For a party structure, see [data/README.md](data/README.md)
